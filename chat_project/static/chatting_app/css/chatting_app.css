@@ -1,0 +1,16 @@
+.vr{
+    border-right : 6px solid grey;
+    
+}
+.vr img {
+    height: 52px;
+    width: 57px;
+}
+.vl{
+    border-left : 6px solid grey;
+    
+}
+.vl img {
+    height: 150px;
+    width: 150px;
+}
